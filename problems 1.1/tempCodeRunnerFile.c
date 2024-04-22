@@ -1,1 +1,0 @@
-printf("%d ", start + i * 2);

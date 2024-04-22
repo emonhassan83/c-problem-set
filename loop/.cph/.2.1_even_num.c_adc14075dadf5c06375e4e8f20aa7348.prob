@@ -1,0 +1,1 @@
+{"name":"Local: 2","url":"d:\\Phitron\\problem-set\\c-problem\\loop\\2.1_even_num.c","tests":[{"id":1713780849761,"input":"130","output":"22 24 26 28 30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\problem-set\\c-problem\\loop\\2.1_even_num.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 2","url":"d:\\Phitron\\problem-set\\c-problem\\loop\\2.2_odd.c","tests":[{"id":1713780978458,"input":"96","output":"21 23 25 27"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\problem-set\\c-problem\\loop\\2.2_odd.c","group":"local","local":true}

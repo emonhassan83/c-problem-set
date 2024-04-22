@@ -1,3 +1,7 @@
+/*
+ * problem_url: https://www.hackerrank.com/contests/eid-vacation-practice-a-introduction-to-c-programming-a-batch-5/challenges/money-6-1
+ */
+
 #include <stdio.h>
 int main()
 {
